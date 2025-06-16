@@ -1,5 +1,13 @@
 
 # 💬 ChitChat - Real-Time Chat App
+![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)
+![Node.js](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js)
+![Express](https://img.shields.io/badge/API-Express.js-lightgrey?logo=express)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen?logo=mongodb)
+![Socket.IO](https://img.shields.io/badge/RealTime-Socket.IO-black?logo=socket.io)
+![JWT](https://img.shields.io/badge/Auth-JWT-orange?logo=jsonwebtokens)
+![Bootstrap](https://img.shields.io/badge/UI-Bootstrap-purple?logo=bootstrap)
+![Live](https://img.shields.io/badge/Status-Live-red?logo=vercel)
 
 A full-stack real-time chat application built using the MERN stack with Socket.io. Features include user authentication, private one-on-one messaging, and live message updates.
 
