@@ -17,7 +17,9 @@ A full-stack real-time chat application built using the MERN stack with Socket.i
 
 ---
 
-## 📸 Screenshots
+## 📸 Preview
+
+![App Preview](./screenshot/chat-preview.png)
 
 > (Add screenshots or screen recordings here – chat interface, login, signup, etc.)
 
@@ -33,6 +35,16 @@ A full-stack real-time chat application built using the MERN stack with Socket.i
 - 📋 Copy-to-clipboard user ID
 - 🚀 Smooth Loading Bar
 - 📱 Responsive Bootstrap Design
+
+---
+
+## 🖼️ Screenshots
+
+  <div align="center">
+<img src="./screenshot/img1.png" width="200" />
+<img src="./screenshot/img2.png" width="200" />
+<img src="./screenshot/img3.png" width="200" />
+</div>
 
 ---
 
@@ -52,7 +64,7 @@ chitchat/
 ├── backend/
 │   ├── models/
 │   ├── routes/
-│   ├── controllers/
+│   ├── middleware/
 │   ├── socket.js
 │   └── server.js
 │
