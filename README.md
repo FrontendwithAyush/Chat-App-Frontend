@@ -77,8 +77,8 @@ chitchat/
 ### 1. Clone Repositories
 
 ```bash
-git clone [https://github.com/yourname/chitchat-frontend](https://github.com/FrontendwithAyush/Chat-App-Frontend)
-git clone [https://github.com/yourname/chitchat-backend](https://github.com/FrontendwithAyush/chat-app-backend)
+git clone https://github.com/FrontendwithAyush/Chat-App-Frontend
+git clone https://github.com/FrontendwithAyush/chat-app-backend
 ```
 
 ### 2. Setup Backend
