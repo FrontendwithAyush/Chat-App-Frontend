@@ -21,7 +21,6 @@ A full-stack real-time chat application built using the MERN stack with Socket.i
 
 ![App Preview](./screenshot/chat-preview.png)
 
-> (Add screenshots or screen recordings here – chat interface, login, signup, etc.)
 
 ---
 
