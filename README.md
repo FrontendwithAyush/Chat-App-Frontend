@@ -3,7 +3,7 @@
 
 A full-stack real-time chat application built using the MERN stack with Socket.io. Features include user authentication, private one-on-one messaging, and live message updates.
 
-### 🔗 [Live Demo](#) • [Frontend GitHub](#) • [Backend GitHub](#)
+### 🔗 [Live Demo](https://message-chitchat.netlify.app/)  • [Backend GitHub](https://github.com/FrontendwithAyush/chat-app-backend)
 
 ---
 
@@ -132,7 +132,7 @@ npm start
 ## 📞 Contact / Issues
 
 For any concerns, feel free to reach out or raise an issue.  
-💬 DM me with your **User ID** inside the app.
+💬 DM me 684843424dd9c8766ad0cee0 inside the app.
 
 ---
 
